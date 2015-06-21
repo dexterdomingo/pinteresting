@@ -3,4 +3,6 @@
 This is the pinteresting sample application for
 [*One Month Rails*] (http://onemonthrails.com)
 
-by [Mattan Griffel](http://mattangriffel.com)
+Video Tutorial re-created by Dexter Domingo.
+
+Follow my journey into Ruby on Rails at [*FullStackRailsDeveloper.com*] (http://fullstackrailsdeveloper.com)
